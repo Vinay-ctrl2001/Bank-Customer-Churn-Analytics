@@ -30,10 +30,10 @@ with credit score 500-800 range remains stable.
 
   **Financial & Product Use**
 
-    large spike in churn rate with account balance 1k-10k. low 0 account balance have high churn rate 
-    and high account balance 200k have high churn risks.
+  large spike in churn rate with account balance 1k-10k. low 0 account balance have high churn rate 
+  and high account balance 200k have high churn risks.
   
-    Most customers use product 1 (5.1k) and product 2 (4.6k), product 3 and product 4 usage is nigligible.
+  Most customers use product 1 (5.1k) and product 2 (4.6k), product 3 and product 4 usage is nigligible.
       
 **Customer Profile**
 
