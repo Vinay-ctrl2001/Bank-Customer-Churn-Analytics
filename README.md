@@ -22,10 +22,10 @@
 
   **Age and Credit Score**
   
-    There is significantly high churn rate of customers aged 45-65 even though large coustomer base is 25-45 age range
+There is significantly high churn rate of customers aged 45-65 even though large coustomer base is 25-45 age range
     
-    Customers with low credit scores (<400) have highest churn rates while customers 
-    with credit score 500-800 range remains stable.
+Customers with low credit scores (<400) have highest churn rates while customers 
+with credit score 500-800 range remains stable.
 
 
   **Financial & Product Use**
