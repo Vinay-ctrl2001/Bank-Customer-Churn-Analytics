@@ -1,15 +1,15 @@
 # Bank-Customer-Churn-Analytics
 
-**Business Problem Statement**
+#Business Problem Statement
 
   The goel is to analyze 'Customer Records' to identify "at-risk" customers before they leave. Provide data driven recommendation for improve customer
   Retention.
 
-  **Project Overview**
+  #Project Overview
   To analyze Banking data using power bi to perform data cleaning & transform data and build interactive dashboard to deliver actionable insights 
   for stakeholders.
 
-  **KPIs** 
+  #KPIs
   Total Customers: 10,000
 
   Average Age: 39 years
@@ -18,9 +18,9 @@
 
   Churn Rate: 20%
 
-  **INSIGHTS**
+  #INSIGHTS
 
-  **Age and Credit Score**
+#Age and Credit Score
   
 There is significantly high churn rate of customers aged 45-65 even though large coustomer base is 25-45 age range
     
@@ -28,14 +28,14 @@ Customers with low credit scores (<400) have highest churn rates while customers
 with credit score 500-800 range remains stable.
 
 
-  **Financial & Product Use**
+  #Financial & Product Use
 
   large spike in churn rate with account balance 1k-10k. low 0 account balance have high churn rate 
   and high account balance 200k have high churn risks.
   
   Most customers use product 1 (5.1k) and product 2 (4.6k), product 3 and product 4 usage is nigligible.
       
-**Customer Profile**
+#Customer Profile
 
   Customer base devides as 54.57% male and 45.43% female.
 
@@ -43,7 +43,7 @@ with credit score 500-800 range remains stable.
 
   Nearly 4849 customers are not active which inablesf future churn risk
 
-**RECOMMENDATIONS**
+#RECOMMENDATIONS
 
 
       
