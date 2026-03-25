@@ -2,7 +2,7 @@
 
 # ❓Business Problem Statement
 
-  The goel is to analyze 'Customer Records' to identify "at-risk" customers before they leave. Provide data driven recommendation for improve customer
+  The goel is to analyze 'Customer Records' to identify "at-risk" customers before they leave. Provide data driven recommendation to improve customer
   Retention.
 
 # 💻Project Overview
