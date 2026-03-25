@@ -9,6 +9,8 @@
   To analyze Banking data using power bi to perform data cleaning & transform data and build interactive dashboard to deliver actionable insights 
   for stakeholders.
 
+  ![image alt](https://github.com/Vinay-ctrl2001/Bank-Customer-Churn-Analytics/blob/main/images/Bank%20Customer%20Churn%20Dashboard.png?raw=true)
+
 # 📌KPIs
   Total Customers: 10,000
 
@@ -45,6 +47,8 @@ with credit score 500-800 range remains stable**.
 
 # 🇫🇷 France
 
+![image alt](https://github.com/Vinay-ctrl2001/Bank-Customer-Churn-Analytics/blob/main/images/France.png?raw=true)
+
 **Insights**
 
   Total 5k customers, almost 811 Customer lost.
@@ -59,6 +63,8 @@ with credit score 500-800 range remains stable**.
 
 # 🇩🇪 Germany
 
+![image alt](https://github.com/Vinay-ctrl2001/Bank-Customer-Churn-Analytics/blob/main/images/Germany.png?raw=true)
+
 **Insights**
 
   Total 3k customers, almost 814 Customer lost.
@@ -71,6 +77,8 @@ with credit score 500-800 range remains stable**.
 
 
 # 🇪🇸 Spain
+
+![image alt](https://github.com/Vinay-ctrl2001/Bank-Customer-Churn-Analytics/blob/main/images/Spain.png?raw=true)
 
 **Insights**
 
