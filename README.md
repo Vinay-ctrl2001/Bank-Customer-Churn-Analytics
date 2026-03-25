@@ -33,9 +33,9 @@ with credit score 500-800 range remains stable**.
 **Financial & Product Use**
 
   large spike in churn rate with account balance 1k-10k. low 0 account balance have high churn rate 
-  and high account balance 200k have high churn risks.
+  and high account balance 200 k have high churn risks.
   
-  Most customers use product 1 (5.1k) and product 2 (4.6k), product 3 and product 4 usage is nigligible.
+  Most customers use product 1 (5.1 k) and product 2 (4.6 k), product 3 and product 4 usage is nigligible.
       
 **Customer Profile**
 
@@ -51,7 +51,7 @@ with credit score 500-800 range remains stable**.
 
 **Insights**
 
-  Total 5k customers, almost 811 Customer lost.
+  Total 5 k customers, almost 811 Customer lost.
 
   Male customers make up 54.91% of the customer base. while females have 45.9% share
 
@@ -67,7 +67,7 @@ with credit score 500-800 range remains stable**.
 
 **Insights**
 
-  Total 3k customers, almost 814 Customer lost.
+  Total 3 k customers, almost 814 Customer lost.
 
   **Female customers make up 47.55% of the customer base** which is higher than France and Spain, male numbers are still high with 52.45% 
 
@@ -82,7 +82,7 @@ with credit score 500-800 range remains stable**.
 
 **Insights**
 
-  Smallest customer base with total 2k customers, almost 413 Customer lost.
+  Smallest customer base with total 2 k customers, almost 413 Customer lost.
 
   **Customers with >200k show a much higher churn rate**.
 
@@ -97,7 +97,7 @@ with credit score 500-800 range remains stable**.
 
   Launch campaign offring incentive on re-activate account to mitigate the churn risk.
 
-  Offer **specialsaving account & fix deposits for account balance 1k-10k group to control churn risk**.
+  Offer **specialsaving account & fix deposits for account balance 1 k-10 k group to control churn risk**.
 
   Customers with <400 credit scores offer **small credit building lonas this will build a sense of loyalty** as the bank helps 
   them improve their financial health.
