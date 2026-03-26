@@ -41,7 +41,7 @@ with credit score 500-800 range remains stable**.
 
   Customer base devides as 54.57% male and 45.43% female.
 
-  **Approximatly 70%  customers owns credit card**.
+  **Approximately 70%  customers owns credit card**.
 
   Nearly **4849 customers are not active which in inables future churn risk**
 
@@ -53,13 +53,13 @@ with credit score 500-800 range remains stable**.
 
   Total 5 k customers, almost 811 Customer lost.
 
-  Male customers make up 54.91% of the customer base. while females have 45.9% share
+  Male customers make up 54.91% of the customer base. while females have 45.09% share
 
-  **55-65 agegroup have high churn rate**.
+  **55-65 age group shows high churn rate**.
 
   Customers below average credit scores (<400) have highest churn rates.
 
-  Product1 and product2 have high user.
+  Product1 and product2 have high user adoption.
 
 # 🇩🇪 Germany
 
